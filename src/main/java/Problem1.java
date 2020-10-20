@@ -3,7 +3,8 @@ public class Problem1 {
     /*
     Describe your algorithm here in up to 5 sentences:
     Professor Du's hint video definitely helped me conceptualize this process. He asked for me to comment if it
-    helped or not.
+    helped or not. This algorithm sorts an array of integers consisting of 0s, 1s and 2s. It does so in one pass,
+    pushing all the 2s to the end, all the 0s to the beginning and the 1s to the middle.
      */
 
     // Do not change signature (function name, parameters type, and return type)
